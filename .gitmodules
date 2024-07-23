@@ -1,0 +1,5 @@
+[submodule "app/sub-module"]
+	path = app/sub-module
+	url = https://github.com/Sakthivel-19/fastapi_backend_k8s_sub_module.git
+	branch = main
+	
